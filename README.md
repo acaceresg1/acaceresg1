@@ -1,6 +1,6 @@
 ## Hi Community
 
-Alfredo Cáceres speaking. A few years ago, when I was working in Azerbaijan as Chemical Engineer my mentality changed, reaching my limit, which uncovered a strong feeling for helping others.
+Alfredo Cáceres speaking. A few years ago, when I was working in Azerbaijan as Chemical Engineer my mentality changed, which uncovered a strong feeling for helping others.
 One of the ideas I thought could have the highest impact would be working on social and sustainable data science projects, but first I had to develop my data science skills to be able to connect all the dots to create something revolutionary.
 Since then, I have completed a dual degree with an IMBA and a Master in Business Analytics and Big Data at IE University in Madrid which helped me a lot developing
 all the skills needed for my initial purpose.
