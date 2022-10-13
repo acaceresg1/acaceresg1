@@ -15,15 +15,15 @@ If you see anything that piques your interest or would like to collaborate on a 
 
 i. Real-time Twitter Covid-19 Anaysis - Apache Kafka, PySpark, MariaDB (Spring, 2022).
 
-[i. Forest Cover Type Prediction Challenge, Multiclass Classification - Python: Scikit-Learn, Pandas, Seaborn (Spring, 2022).](https://github.com/acaceresg1/Forest-Cover-Type-Prediction-Challenge-Multiclass-Classification.git)
+[ii. Forest Cover Type Prediction Challenge, Multiclass Classification - Python: Scikit-Learn, Pandas, Seaborn (Spring, 2022).](https://github.com/acaceresg1/Forest-Cover-Type-Prediction-Challenge-Multiclass-Classification.git)
 
-iii. London BikeSharing Analysis -Python: Scikit-Learn, Pandas, Seaborn (Spring, 2022).
+iii. Washington D.C. BikeSharing Analysis -Python: Scikit-Learn, Pandas, Seaborn, MatplotLib, XgBoost, ipywidgets, Datetime (Spring, 2022).
 
 iv. BiciMad Analysis - Python: Scikit-Learn, Pandas, Seaborn (Summer, 2022).
 
 v. Real-time Twitter Covid-19 Fake detector - Apache Kafka, PySpark, MariaDB (Summer, 2022).
 
-vi. Subreddit topuc using Rubrix - Python: Scikit-Learn, Pandas, Seaborn, Rubrix (Summer, 2022).
+vi. Subreddit topic using Rubrix - Python: Scikit-Learn, Pandas, Seaborn, Rubrix (Summer, 2022).
 
     🔭 I’m currently working on a platform to help small town halls to take better decisions with their limited resources.
     🌱 I’m currently learning Deep Neural Networks
