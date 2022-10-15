@@ -19,7 +19,7 @@ i. Real-time Twitter Covid-19 Anaysis - Apache Kafka, PySpark, MariaDB (Spring, 
 
 [iii. Washington D.C. BikeSharing Analysis -Python: Scikit-Learn, Pandas, Seaborn, MatplotLib, XgBoost, ipywidgets, Datetime (Spring, 2022).](https://github.com/acaceresg1/User_Prediction_Washington_D.C_bicyle_users.git)
 
-iv. BiciMad Analysis - Python: Scikit-Learn, Pandas, Seaborn (Summer, 2022).
+[iv. BiciMad Analysis - Python: Scikit-Learn, Pandas, Seaborn (Summer, 2022).](https://github.com/acaceresg1/Public_BikeSharing_Bicimad_Analysis.git)
 
 v. Real-time Twitter Covid-19 Fake detector - Apache Kafka, PySpark, MariaDB (Summer, 2022).
 
