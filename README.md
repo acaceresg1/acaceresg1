@@ -23,7 +23,7 @@ i. Real-time Twitter Covid-19 Anaysis - Apache Kafka, PySpark, MariaDB (Spring, 
 
 v. Real-time Twitter Covid-19 Fake detector - Apache Kafka, PySpark, MariaDB (Summer, 2022).
 
-[vi. Subreddit topic using Rubrix - Python: Scikit-Learn, Pandas, Seaborn, Rubrix (Summer, 2022).] (https://github.com/acaceresg1/Rubrix_Case_Study_CarMax_Sentiment_Analysis_On_Reddit.git)
+[vi. Subreddit topic using Rubrix - Python: Scikit-Learn, Pandas, Seaborn, Rubrix (Summer, 2022).](https://github.com/acaceresg1/Rubrix_Case_Study_CarMax_Sentiment_Analysis_On_Reddit.git)
 
     🔭 I’m currently working on a platform to help small town halls to take better decisions with their limited resources.
     🌱 I’m currently learning Deep Neural Networks
