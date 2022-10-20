@@ -13,7 +13,7 @@ If you see anything that piques your interest or would like to collaborate on a 
 
 ### Data Science Portfolio
 
-[i. Real-time Twitter Covid-19 Anaysis - Apache Kafka, PySpark, MariaDB (Spring, 2022).](https://github.com/acaceresg1/Twitter_Analysis_Ukraine_War.git)
+[i. Real-time Twitter Covid-19 Anaysis - Apache Kafka, HDFS, PySpark, MariaDB (Spring, 2022).](https://github.com/acaceresg1/Twitter_Analysis_Ukraine_War.git)
 
 [ii. Forest Cover Type Prediction Challenge, Multiclass Classification - Python: Scikit-Learn, Pandas, Seaborn (Spring, 2022).](https://github.com/acaceresg1/Forest-Cover-Type-Prediction-Challenge-Multiclass-Classification.git)
 
