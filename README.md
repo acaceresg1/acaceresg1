@@ -29,7 +29,7 @@ If you see anything that get your attention or would like to collaborate on a pr
     🤔 I’m looking for help on how to enter the sustainability data science world with a background in chemical engineering.
     💬 Ask me about why I changed so drastically my mind after +6 years working in Oil & Gas.
     📫 How to reach me: Linked-in.
-    ⚡ Fun fact: I can run almost like Forrest Gump, so if running is also your passion, share it with me!
+    ⚡ Fun fact: I'm a long-distance runner, so if running is also your passion, share it with me!
 
 <!---
 acaceresg1/acaceresg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
